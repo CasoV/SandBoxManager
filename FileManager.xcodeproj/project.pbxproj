@@ -13,6 +13,18 @@
 		03138F3B1F456D420003ED9A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03138F391F456D420003ED9A /* Main.storyboard */; };
 		03138F3D1F456D420003ED9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03138F3C1F456D420003ED9A /* Assets.xcassets */; };
 		03138F401F456D420003ED9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03138F3E1F456D420003ED9A /* LaunchScreen.storyboard */; };
+		03138F4F1F456DDE0003ED9A /* SandBoxFileManager.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03138F481F456DDD0003ED9A /* SandBoxFileManager.storyboard */; };
+		03138F501F456DDE0003ED9A /* SandBoxFileManagerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03138F4A1F456DDD0003ED9A /* SandBoxFileManagerViewController.m */; };
+		03138F511F456DDE0003ED9A /* SandBoxModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 03138F4C1F456DDD0003ED9A /* SandBoxModel.m */; };
+		03138F521F456DDE0003ED9A /* SandBoxTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 03138F4E1F456DDD0003ED9A /* SandBoxTableViewCell.m */; };
+		03138F571F4570CC0003ED9A /* 201707271125431700.docx in Resources */ = {isa = PBXBuildFile; fileRef = 03138F541F4570CC0003ED9A /* 201707271125431700.docx */; };
+		03138F581F4570CC0003ED9A /* Screenshot_2017-07-20-11-17-15-90.png in Resources */ = {isa = PBXBuildFile; fileRef = 03138F551F4570CC0003ED9A /* Screenshot_2017-07-20-11-17-15-90.png */; };
+		03138F591F4570CC0003ED9A /* zsk_search.png in Resources */ = {isa = PBXBuildFile; fileRef = 03138F561F4570CC0003ED9A /* zsk_search.png */; };
+		03138F5B1F457D4C0003ED9A /* M_1484207815561.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 03138F5A1F457D4C0003ED9A /* M_1484207815561.jpg */; };
+		03138F611F4583DA0003ED9A /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 03138F5D1F4583DA0003ED9A /* back.png */; };
+		03138F621F4583DA0003ED9A /* excel.png in Resources */ = {isa = PBXBuildFile; fileRef = 03138F5E1F4583DA0003ED9A /* excel.png */; };
+		03138F631F4583DA0003ED9A /* powerPoint.png in Resources */ = {isa = PBXBuildFile; fileRef = 03138F5F1F4583DA0003ED9A /* powerPoint.png */; };
+		03138F641F4583DA0003ED9A /* word.png in Resources */ = {isa = PBXBuildFile; fileRef = 03138F601F4583DA0003ED9A /* word.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +38,21 @@
 		03138F3C1F456D420003ED9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		03138F3F1F456D420003ED9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03138F411F456D420003ED9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		03138F481F456DDD0003ED9A /* SandBoxFileManager.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = SandBoxFileManager.storyboard; sourceTree = "<group>"; };
+		03138F491F456DDD0003ED9A /* SandBoxFileManagerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SandBoxFileManagerViewController.h; sourceTree = "<group>"; };
+		03138F4A1F456DDD0003ED9A /* SandBoxFileManagerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SandBoxFileManagerViewController.m; sourceTree = "<group>"; };
+		03138F4B1F456DDD0003ED9A /* SandBoxModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SandBoxModel.h; sourceTree = "<group>"; };
+		03138F4C1F456DDD0003ED9A /* SandBoxModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SandBoxModel.m; sourceTree = "<group>"; };
+		03138F4D1F456DDD0003ED9A /* SandBoxTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SandBoxTableViewCell.h; sourceTree = "<group>"; };
+		03138F4E1F456DDD0003ED9A /* SandBoxTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SandBoxTableViewCell.m; sourceTree = "<group>"; };
+		03138F541F4570CC0003ED9A /* 201707271125431700.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = 201707271125431700.docx; sourceTree = "<group>"; };
+		03138F551F4570CC0003ED9A /* Screenshot_2017-07-20-11-17-15-90.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot_2017-07-20-11-17-15-90.png"; sourceTree = "<group>"; };
+		03138F561F4570CC0003ED9A /* zsk_search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zsk_search.png; sourceTree = "<group>"; };
+		03138F5A1F457D4C0003ED9A /* M_1484207815561.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = M_1484207815561.jpg; sourceTree = "<group>"; };
+		03138F5D1F4583DA0003ED9A /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		03138F5E1F4583DA0003ED9A /* excel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = excel.png; sourceTree = "<group>"; };
+		03138F5F1F4583DA0003ED9A /* powerPoint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = powerPoint.png; sourceTree = "<group>"; };
+		03138F601F4583DA0003ED9A /* word.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = word.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +85,8 @@
 		03138F2F1F456D410003ED9A /* FileManager */ = {
 			isa = PBXGroup;
 			children = (
+				03138F531F4570B50003ED9A /* Files */,
+				03138F471F456D840003ED9A /* SandBoxManager */,
 				03138F331F456D410003ED9A /* AppDelegate.h */,
 				03138F341F456D410003ED9A /* AppDelegate.m */,
 				03138F361F456D420003ED9A /* ViewController.h */,
@@ -77,6 +106,43 @@
 				03138F311F456D410003ED9A /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		03138F471F456D840003ED9A /* SandBoxManager */ = {
+			isa = PBXGroup;
+			children = (
+				03138F5C1F4583C20003ED9A /* imgs */,
+				03138F491F456DDD0003ED9A /* SandBoxFileManagerViewController.h */,
+				03138F4A1F456DDD0003ED9A /* SandBoxFileManagerViewController.m */,
+				03138F481F456DDD0003ED9A /* SandBoxFileManager.storyboard */,
+				03138F4B1F456DDD0003ED9A /* SandBoxModel.h */,
+				03138F4C1F456DDD0003ED9A /* SandBoxModel.m */,
+				03138F4D1F456DDD0003ED9A /* SandBoxTableViewCell.h */,
+				03138F4E1F456DDD0003ED9A /* SandBoxTableViewCell.m */,
+			);
+			path = SandBoxManager;
+			sourceTree = "<group>";
+		};
+		03138F531F4570B50003ED9A /* Files */ = {
+			isa = PBXGroup;
+			children = (
+				03138F541F4570CC0003ED9A /* 201707271125431700.docx */,
+				03138F551F4570CC0003ED9A /* Screenshot_2017-07-20-11-17-15-90.png */,
+				03138F561F4570CC0003ED9A /* zsk_search.png */,
+				03138F5A1F457D4C0003ED9A /* M_1484207815561.jpg */,
+			);
+			name = Files;
+			sourceTree = "<group>";
+		};
+		03138F5C1F4583C20003ED9A /* imgs */ = {
+			isa = PBXGroup;
+			children = (
+				03138F5D1F4583DA0003ED9A /* back.png */,
+				03138F5E1F4583DA0003ED9A /* excel.png */,
+				03138F5F1F4583DA0003ED9A /* powerPoint.png */,
+				03138F601F4583DA0003ED9A /* word.png */,
+			);
+			path = imgs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +204,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				03138F401F456D420003ED9A /* LaunchScreen.storyboard in Resources */,
+				03138F571F4570CC0003ED9A /* 201707271125431700.docx in Resources */,
+				03138F611F4583DA0003ED9A /* back.png in Resources */,
+				03138F5B1F457D4C0003ED9A /* M_1484207815561.jpg in Resources */,
 				03138F3D1F456D420003ED9A /* Assets.xcassets in Resources */,
+				03138F591F4570CC0003ED9A /* zsk_search.png in Resources */,
+				03138F631F4583DA0003ED9A /* powerPoint.png in Resources */,
+				03138F4F1F456DDE0003ED9A /* SandBoxFileManager.storyboard in Resources */,
+				03138F621F4583DA0003ED9A /* excel.png in Resources */,
 				03138F3B1F456D420003ED9A /* Main.storyboard in Resources */,
+				03138F581F4570CC0003ED9A /* Screenshot_2017-07-20-11-17-15-90.png in Resources */,
+				03138F641F4583DA0003ED9A /* word.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,9 +225,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03138F511F456DDE0003ED9A /* SandBoxModel.m in Sources */,
 				03138F381F456D420003ED9A /* ViewController.m in Sources */,
 				03138F351F456D410003ED9A /* AppDelegate.m in Sources */,
+				03138F501F456DDE0003ED9A /* SandBoxFileManagerViewController.m in Sources */,
 				03138F321F456D410003ED9A /* main.m in Sources */,
+				03138F521F456DDE0003ED9A /* SandBoxTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
